@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, VS Code
 
-## 📈 GitHub Stats
-
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan9675&show_icons=true&theme=radical)
-
 ## 📂 Projects
 
 Here are some of my notable projects:
